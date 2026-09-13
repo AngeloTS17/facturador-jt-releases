@@ -3,8 +3,8 @@
   "build_number": 2,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Test v.4 descargar e instalar",
-  "download_url": "https://github.com/AngeloTS17/facturador-jt-releases/releases/download/v1.0.0/app-release-v1.apk",
-  "file_size_bytes": 89650838,
-  "sha256": "bd335370bb6908dd4e2f54f7b6fc51ef991c5c74b15ec17763e942056b096f98"
+  "release_notes": "Test v.5 descargar e instalar",
+  "download_url": "https://github.com/AngeloTS17/facturador-jt-releases/releases/download/v1.0.0/app-release.apk",
+  "file_size_bytes": 89650842,
+  "sha256": "7d393bed865563f6f7ae73026f850f21ea3b39ef0a1b4d05c3afe07ad1615185"
 }
