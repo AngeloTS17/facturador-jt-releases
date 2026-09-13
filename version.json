@@ -3,8 +3,8 @@
   "build_number": 2,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Prueba de aplicación real version 2 / Test 3.1",
+  "release_notes": "Prueba de aplicación real version 2 / Test 3.2",
   "download_url": "https://github.com/AngeloTS17/facturador-jt-releases/releases/download/v1.0.0/app-release.apk",
   "file_size_bytes": 89650838,
-  "sha256": "38611a71f8d2f006e26e4bb384610e61c63dd05935de2c7b718d5cab83964f75"
+  "sha256": "bd335370bb6908dd4e2f54f7b6fc51ef991c5c74b15ec17763e942056b096f98"
 }
