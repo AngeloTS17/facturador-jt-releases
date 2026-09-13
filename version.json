@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.2",
-  "build_number": 2,
+  "latest_version": "1.0.3",
+  "build_number": 3,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Test v.5 descargar e instalar",
+  "release_notes": "Test v.6 Corrección de la camara para escanear codigos de barras",
   "download_url": "https://github.com/AngeloTS17/facturador-jt-releases/releases/download/v1.0.0/app-release.apk",
   "file_size_bytes": 89749782,
-  "sha256": "76ebdd30100e1a57232ab9cfc96146261ae16d7732582206758454bfbe5291ec"
+  "sha256": "7c27bca82bce0f202971207f836781f3a8e49aae087356713c85f4fdabe814ec"
 }
