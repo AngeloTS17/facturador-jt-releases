@@ -3,8 +3,8 @@
   "build_number": 2,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Versión inicial.",
+  "release_notes": "Solución al error de instalar la aplicación Test 2",
   "download_url": "https://github.com/AngeloTS17/facturador-jt-releases/releases/download/v1.0.0/app-release.apk",
-  "file_size_bytes": 88660791,
-  "sha256": "41c25b5bce171ed0580ceba29200d1977ee71b79d02a861ea24ee383b8665629"
+  "file_size_bytes": 89650838,
+  "sha256": "44bfd157b8f5cc8bf52c15c951cff2ec01fddb08748f751c10beff23cf5cdb8b"
 }
