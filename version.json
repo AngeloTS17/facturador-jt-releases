@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.5",
-  "build_number": 5,
+  "latest_version": "1.0.6",
+  "build_number": 6,
   "minimum_build": 2,
   "is_mandatory": false,
-  "release_notes": "Mejoras a la sensibilidad al escáner de código de barras V2",
+  "release_notes": "Mejoras a la sensibilidad al escáner de código de barras V3",
   "download_url": "https://github.com/AngeloTS17/facturador-jt-releases/releases/download/v1.0.0/app-release.apk",
-  "file_size_bytes": 90295895,
-  "sha256": "63a765055460d52d46122d8fadbd728137a140c874740ca39ddc93c90c1391e1"
+  "file_size_bytes": 90309447,
+  "sha256": "d47583390289d49b39021c9c911938e7c1d15af942491dd6013f6f1a0f603c6d"
 }
