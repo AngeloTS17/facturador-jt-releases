@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.6",
-  "build_number": 6,
+  "latest_version": "1.0.7",
+  "build_number": 7,
   "minimum_build": 2,
   "is_mandatory": false,
   "release_notes": "Mejoras a la sensibilidad al escáner de código de barras V3",
