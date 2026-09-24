@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.10",
-  "build_number": 10,
+  "latest_version": "1.0.11",
+  "build_number": 11,
   "minimum_build": 8,
   "is_mandatory": false,
-  "release_notes": "Aplicación Inicial V3",
+  "release_notes": "Aplicación Inicial V4 test",
   "download_url": "https://github.com/AngeloTS17/facturador-jt-releases/releases/download/v1.0.0/app-release.apk",
   "file_size_bytes": 90489671,
   "sha256": "4bc1a929af14dabe2ddae09d175f601a475f8005ceba55c368148850c99ed1d0"
