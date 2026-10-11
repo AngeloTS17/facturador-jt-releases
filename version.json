@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.11",
-  "build_number": 11,
-  "minimum_build": 8,
+  "latest_version": "1.0.12",
+  "build_number": 12,
+  "minimum_build": 10,
   "is_mandatory": false,
-  "release_notes": "Mejoras visuales en el Dashboard y descarga de XML y CDR de comprobantes electrónicos.",
-  "download_url": "https://github.com/AngeloTS17/facturador-jt-releases/releases/download/V1.0.11/app-release.apk",
-  "file_size_bytes": 90489671,
+  "release_notes": "Optimización en la emisión de comprobantes ante lentitud de SUNAT, nueva barra de progreso al momento de registrar una venta.",
+  "download_url": "https://github.com/AngeloTS17/facturador-jt-releases/releases/download/V1.0.12/app-release.apk",
+  "file_size_bytes": 91586141,
   "sha256": "164e6bf4e5fca544ab5f4fa1d0bc764d44ade18a4c3715d553dc8bf41845ba05"
 }
