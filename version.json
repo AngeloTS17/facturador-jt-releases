@@ -3,7 +3,6 @@
   "build_number": 12,
   "minimum_build": 10,
   "is_mandatory": false,
-  "release_date": "2026-10-23",
   "release_notes": "Optimización en la emisión de comprobantes ante lentitud de SUNAT, nueva barra de progreso al momento de registrar una venta.",
   "download_url": "https://github.com/AngeloTS17/facturador-jt-releases/releases/download/V1.0.12/app-release.apk",
   "file_size_bytes": 91586141,
