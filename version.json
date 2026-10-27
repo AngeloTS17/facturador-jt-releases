@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.14",
-  "build_number": 14,
+  "latest_version": "1.0.15",
+  "build_number": 15,
   "minimum_build": 10,
   "is_mandatory": false,
   "release_notes": "• Se optimizó la emisión de comprobantes electrónicos ante lentitud o intermitencias de SUNAT.\n• Se añadió una barra de progreso visual en tiempo real al registrar cada venta.\n• Se incorporaron tutoriales interactivos guiados para facilitar el uso de los módulos principales.\n• Se aplicaron mejoras generales de rendimiento y estabilidad en la aplicación.",
-  "download_url": "https://github.com/AngeloTS17/facturador-jt-releases/releases/download/V1.0.14/app-release.apk",
+  "download_url": "https://github.com/AngeloTS17/facturador-jt-releases/releases/download/V1.0.15/app-release.apk",
   "file_size_bytes": 91586141,
-  "sha256": "c8616d79f77e846c9d1329babe071e1ef296d0d1866a8e2f946f9d5f8d6d96be"
+  "sha256": "99f9b8705944d3581beb7055157a55988e4ad074562668ab6b74548bce9b36b6"
 }
