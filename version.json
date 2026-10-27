@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.16",
-  "build_number": 16,
+  "latest_version": "1.0.15",
+  "build_number": 15,
   "minimum_build": 10,
   "is_mandatory": false,
   "release_notes": "• Se optimizó la emisión de comprobantes electrónicos ante lentitud o intermitencias de SUNAT.\n• Se añadió una barra de progreso visual en tiempo real al registrar cada venta.\n• Se incorporaron tutoriales interactivos guiados para facilitar el uso de los módulos principales.\n• Se aplicaron mejoras generales de rendimiento y estabilidad en la aplicación.",
