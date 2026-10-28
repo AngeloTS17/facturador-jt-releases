@@ -3,8 +3,9 @@
   "build_number": 15,
   "minimum_build": 10,
   "is_mandatory": false,
-  "release_notes": "• Se optimizó la emisión de comprobantes electrónicos ante lentitud o intermitencias de SUNAT.\n• Se añadió una barra de progreso visual en tiempo real al registrar cada venta.\n• Se incorporaron tutoriales interactivos guiados para facilitar el uso de los módulos principales.\n• Se aplicaron mejoras generales de rendimiento y estabilidad en la aplicación.",
+  "release_notes": "⚠️ AVISO IMPORTANTE (Seguridad):\nPara certificar la app ante Google Play Protect se actualizó la firma digital. Por seguridad de Android, para instalar esta versión:\n1. Desinstala la versión anterior de tu celular.\n2. Descarga e instala esta nueva versión.\n(Tus datos y comprobantes en el sistema no se perderán).\n\nNovedades de la versión:\n• Se optimizó la emisión de comprobantes electrónicos ante lentitud o intermitencias de SUNAT.\n• Se añadió una barra de progreso visual en tiempo real al registrar cada venta.\n• Se incorporaron tutoriales interactivos guiados para facilitar el uso de los módulos principales.\n• Se aplicaron mejoras generales de rendimiento y estabilidad en la aplicación.",
   "download_url": "https://github.com/AngeloTS17/facturador-jt-releases/releases/download/V1.0.15/app-release.apk",
   "file_size_bytes": 91586141,
   "sha256": "99f9b8705944d3581beb7055157a55988e4ad074562668ab6b74548bce9b36b6"
 }
+
